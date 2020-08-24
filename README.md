@@ -12,5 +12,5 @@ Feel free to message me and tell me if either my code has errors or if my interp
 ### FINISHED:
 Selection Sort - Inefficient (usually used daily for finding the smallest item)<br/>
 Insertion Sort - (card shuffle - this is how you would sort your cards) - compares number with sorted part in front to put it in its correct slot<br/>
-Bubble Sort - Compare adjacent numbers and pushes the bigger number backwards
+Bubble Sort - Compare adjacent numbers and pushes the bigger number backwards<br/>
 Merge Sort - Divide everything and then put it back together
