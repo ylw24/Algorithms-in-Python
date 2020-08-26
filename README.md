@@ -14,4 +14,5 @@ Selection Sort - Inefficient (usually used daily for finding the smallest item)<
 Insertion Sort - (card shuffle - this is how you would sort your cards) - compares number with sorted part in front to put it in its correct slot<br/>
 Bubble Sort - Compare adjacent numbers and pushes the bigger number backwards<br/>
 Merge Sort - Divide everything and then put it back together <br/>
-Shell Sort - Much like inversion sort, but skips everyline
+Shell Sort - Much like inversion sort, but skips everyline <br/>
+Linear Search - search through each element for the key until key is found or list is exhausted
