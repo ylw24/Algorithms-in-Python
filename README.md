@@ -15,4 +15,5 @@ Insertion Sort - (card shuffle - this is how you would sort your cards) - compar
 Bubble Sort - Compare adjacent numbers and pushes the bigger number backwards<br/>
 Merge Sort - Divide everything and then put it back together <br/>
 Shell Sort - Much like inversion sort, but skips everyline <br/>
-Linear Search - search through each element for the key until key is found or list is exhausted
+Linear Search - search through each element for the key until key is found or list is exhausted <br/>
+Binary Search - how we would guess a person's age: "Are you bigger than 25? Yes? What about 30?" (List must be sorted before searching)
